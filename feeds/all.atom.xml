@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>A Pelican Blog</title>
-    <link href="/" rel="alternate"/>
-    <link href="/feeds/all.atom.xml" rel="self"/>
-    <id>/</id>
-    <updated>2025-08-13T12:57:14.487058+00:00</updated>
+    <link href="https://jeroendevr.github.io/fietsreis-polen/" rel="alternate"/>
+    <link href="https://jeroendevr.github.io/fietsreis-polen/feeds/all.atom.xml" rel="self"/>
+    <id>https://jeroendevr.github.io/fietsreis-polen/</id>
+    <updated>2025-08-13T14:15:33.487200+00:00</updated>
 </feed>
